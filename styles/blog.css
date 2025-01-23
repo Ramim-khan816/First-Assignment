@@ -28,7 +28,8 @@ header button {
 .hero {
     
     padding: 40px;
-    text-align: left center;
+    
+    width: 1000;
 }
 .hero h2 {
     margin: 0;
@@ -120,9 +121,9 @@ header button {
 }
  
   .opinion-section {
-    width: 80%;
-    max-width: 900px;
-    margin: 20px;
+    width: 1000px;
+     
+    margin: 100px;
     background-color: #ffffff;
     padding: 20px;
     border-radius: 10px;
@@ -183,9 +184,9 @@ header button {
     border: 1px solid #ddd;
     border-radius: 10px;
     padding: 48px ;
-    width: 1000px;
-    height: 256px;
-    box-shadow: 0 2px 4px  ;
+    width: 950px;
+    height: 200px;
+    box-shadow: 0 0px 0px  ;
 }
 
 .news-section {
@@ -197,13 +198,13 @@ header button {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   
-  .news-section h2 {
+  .news-section  {
     text-align: center;
     font-size: 2rem;
     margin-bottom: 10px;
   }
   
-  .news-section p {
+  .news-section  {
     text-align: center;
     color: #555;
     font-size: 1rem;
@@ -237,7 +238,7 @@ header button {
     justify-content: center;
   }
   
-  .news-content h3 {
+  .news-content  {
     font-size: 1.5rem;
     margin-bottom: 10px;
   }
@@ -250,8 +251,8 @@ header button {
   }
   
   .news-source .source-logo {
-    width: 20px;
-    height: 20px;
+    width: 134px;
+    height: 40px;
     margin-right: 10px;
   }
   
@@ -285,3 +286,13 @@ header button {
   button:hover {
     background-color: #45a049;
   }  
+.bold{
+    margin-bottom: 20px;
+    font: bold;
+    
+    
+}
+.Read{
+    background-color: rgba(0, 106, 80, 1);
+    padding: 13px 20px;
+}
