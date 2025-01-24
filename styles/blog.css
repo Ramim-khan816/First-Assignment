@@ -296,3 +296,125 @@ header button {
     background-color: rgba(0, 106, 80, 1);
     padding: 13px 20px;
 }
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 14px;
+   
+}
+
+ .Taka{
+    width: 280px;
+    height: 80px;
+    background-color: rgba(241, 241, 243, 1);
+    font: bold;
+    color: #000;
+ }
+
+.donation-buttons {
+  background-color: rgba(255, 255, 255, 1);  
+  gap: 24px;
+   box-shadow: 5px;
+  border: 1px;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 5px;
+   
+  width: 700px;
+     
+   
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+
+}
+
+ 
+
+ 
+.selected{
+  background-color: rgba(198, 228, 214, 1);
+}
+
+input[type="text"] {
+  width: 80%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.donate-now {
+  background-color: rgba(0, 106, 80, 1);
+  height: 56px;
+  width: 151px;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+ 
+
+.newsletter {
+  background-color: rgba(198, 228, 214, 1);
+  padding: 40px;
+  margin-top: 40px;
+  border-radius: 0px;
+   width: 650px;
+  align: left;
+}
+
+.newsletter input[type="email"] {
+  width: 70%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.newsletter button {
+  background-color: rgba(0, 106, 80, 1);
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+
+ 
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #777;
+}
+
+footer a {
+  text-decoration: none;
+  margin: 0 5px;
+  color: #555;
+}
+
+ 
+.bolt{
+  font: bold;
+  font-style: rgba(14, 14, 14, 0.8);
+  font-size: 30px;
+   
+}
